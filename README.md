@@ -1,6 +1,3 @@
-Voici ton README sans emojis ni mise en forme spéciale :  
-
----
 
 # Jeu de Calcul - React Native  
 
@@ -47,7 +44,3 @@ Les contributions sont les bienvenues ! N'hésitez pas à proposer des améliora
 
 ### Licence  
 Ce projet est sous licence MIT.  
-
----
-
-Si tu veux des modifications, dis-moi !
