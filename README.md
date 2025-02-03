@@ -15,25 +15,6 @@ Ce projet est une application mobile développée en React Native qui propose un
 - Node.js installé  
 - Expo CLI (si utilisation d'Expo)  
 
-#### Étapes d'installation  
-1. Cloner le projet :  
-   ```sh
-   git clone https://github.com/utilisateur/jeu-calcul.git
-   cd jeu-calcul
-   ```  
-2. Installer les dépendances :  
-   ```sh
-   npm install
-   ```  
-3. Lancer l'application :  
-   ```sh
-   npm start
-   ```  
-   ou avec Expo :  
-   ```sh
-   expo start
-   ```  
-
 ### Technologies utilisées  
 - React Native  
 - Styled Components / CSS  
